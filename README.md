@@ -2,6 +2,11 @@
 
 Actualmente trabajo como Data Analyst pero estoy en busca de hacer un pivot de carrera para ingresar a la industria tecnologica como programador web frontend. 
 Estudio en Platzi
+
+🔨 Languajes
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+HTML5 CSS3 JavaScript GIT GITHUB
 <!--
 **EddyBlvD/EddyBlvD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
