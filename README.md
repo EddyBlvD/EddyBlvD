@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hola 👋 Soy Eduardo Hernandez.
 
+Actualmente trabajo como Data Analyst pero estoy en busca de hacer un pivot de carrera para ingresar a la industria tecnologica como programador web frontend. 
+Estudio en Platzi
 <!--
 **EddyBlvD/EddyBlvD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
